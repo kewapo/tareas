@@ -1,0 +1,51 @@
+(C) Cerrar incidencias SM @Gerencia +Javi
+(B) Actualizar datos equipos cambiados @JoseAguado
+(A) Preparar un equipo para Santa Lucia @CuencaBernesga !31/01/2017
+(B) Maquetar equipos de jose aguado
+(B) Preparar un equipo para San Román @SanRoman
+[X] (A) Pierde la conexion de red @Sahagún #10.36.98.251
+[X] (A) Portátil tiene el botón hundido @Astorga
+[X] (A) Portatil Mal video y no reconoce impresora @Armunia
+[X] (A) Portátil Sahagún no va el teclado @Sahagún +Argimiro #10.37.69.68
+[X] (C) ¿Usar los M400 para sustituir a los rojos? +Javi
+[X] (A) No arranca. No va disco duro y parity error @CuencaBernesga +Caminin #10.36.132.13
+[X] (B) Preparar equipo 1 @JoseAguado
+[X] (B) Preparar equipo 2 @JoseAguado
+[X] (B) Preparar equipo 3 @JoseAguado
+[X] (B) Preparar equipo 4 @JoseAguado
+[X] (B) Preparar equipo 5 @JoseAguado
+[X] (B) Preparar equipo 6 @JoseAguado
+[X] (A) Sustituir por otro @Ribera +EstebanRamos #10.36.141.23
+[X] (A) Falla placa base @Armunia #10.46.210.30
+[X] (A) Cambio portatil por fijo cuando haya @Armunia +JulioZapata #10.37.70.148
+[X] (A) Mucho ruido y lento @MatallanaTorio +JoseGaceo !19/01/2017
+[X] (B) Preparar Thinkpad para la gerencia @Gerencia +Montse #10.36.29.97 !19/01/2017
+[X] (C) Cerrar equipos actualizados @JoseAguado
+[X] (B) Preparar equipo 2 de Jose Aguado @JoseAguado !18/01/2017
+[X] (B) Preparar equipo 3 de Jose Aguado @JoseAguado !18/01/2017
+[X] (B) Preparar equipo 4 de Jose Aguado @JoseAguado !18/01/2017
+[X] (B) Preparar equipo 5 de Jose Aguado @JoseAguado !18/01/2017
+[X] (B) Preparar equipo 6 de Jose Aguado @JoseAguado !18/01/2017
+[X] (B) Preparar equipo 7 de Jose Aguado @JoseAguado !18/01/2017
+[X] (B) Preparar equipo 1 de Jose Aguado @JoseAguado !18/01/2017
+[X] (B) Actualizar datos equipos instalados
+[X] (A) Portátil Astorga botón encendido hundido @Astorga #10.36.134.164
+[X] (A) No va el ratón @JoseAguado
+[X] (C) Preparar equipo @JoseAguado !16/01/2017
+[X] (C) Preparar equipo @JoseAguado !16/01/2017
+[X] (C) Preparar equipo @JoseAguado !16/01/2017
+[X] (C) Preparar equipo @JoseAguado !16/01/2017
+[X] (C) Preparar equipo @JoseAguado !16/01/2017
+[X] (C) Preparar equipo @JoseAguado !16/01/2017
+[X] (C) Preparar equipo @JoseAguado !16/01/2017
+[X] (A) Portátil no carga la batería
+[X] (B) Se bloquea comentar con Guillermo @Sahagún +Eva #10.36.98.246 !30/12/2016 #10.36.98.246 !30/12/2016
+[X] (A) PC Cambiar unidad @SantaMaría #10.37.81.172
+[X] (A) No arranca Windows @Sahagún +Eva #10.36.98.242 !30/12/2016
+[X] (C) Cargar Thinkpad nuevo @Gerencia +Javi
+[X] (C) Instalar Persigo a Yolanda de personal +Guillermo
+[X] (B) Brother imprime bien Llamar @Astorga +Mar !30/12/2016
+[X] (B) Revisar ip pc @MansillaMulas !29/12/2016
+[X] (B) Llamar a Mansilla @MansillaMulas +Javi !29/12/2016 10:30
+[X] (C) PC Mansilla de las Mulas mal unidad @MansillaMulas +Javi #10.36.97.232
+[X] (B) PC Sahagún ha venido muchas veces @Sahagún +Javi #10.36.98.251
